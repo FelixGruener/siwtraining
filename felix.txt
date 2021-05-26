@@ -1,6 +1,10 @@
 dies ist meine erste Aenderung
+<<<<<<< HEAD
 
 
 
 
 great!
+=======
+silvano
+>>>>>>> 4b8f776cb65cd956813bac3abce67ea1855acad3
